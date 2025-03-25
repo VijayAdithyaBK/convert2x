@@ -1,0 +1,21 @@
+{
+    "name": "convert2x",
+    "version": "1.0.0",
+    "description": "A simple and efficient Node.js package for unit conversions.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "unit conversion",
+        "temperature",
+        "distance",
+        "weight",
+        "nodejs"
+    ],
+    "author": "Vijay Adithya",
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
