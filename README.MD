@@ -2,7 +2,7 @@
 
 A **lightweight** and **efficient** Node.js module for performing various unit conversions.
 
-![convert2x](https://img.shields.io/badge/convert2x-v1.0.1-darkred)  
+![convert2x](https://img.shields.io/badge/convert2x-v1.0.0-darkred)  
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-green)  
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
